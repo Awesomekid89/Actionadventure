@@ -118,4 +118,12 @@ print('##########')
 
 
 
-print('
+print('Hello! I am from the police department. What is your name?')
+print('Samantha. Nice to meet you.')
+print('Nice to meet you to Samantha.')
+print('So, I am going to ask, what exactly happened with your whole situation?')
+print('I have already told Rebecca and it is a long story. I do not feel like telling it again.')
+print('That is fine, I will get it from Rebecca.')
+# The police officer goes over to Rebecca and they start talking.
+# Samantha waits until they are done talking. (The officer and Rebecca talked for 2 hours.)
+print('Ok Samantha, 
